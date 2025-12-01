@@ -27,3 +27,9 @@ To align with the project goals, I transformed raw moments into central moment r
 * **Variance, Skewness, & Kurtosis:** Driven by a complex interplay of all three parameters. A substantial interaction effect was found between $Re$ and $Fr$, indicating that the impact of gravity on clustering depends on the turbulence level.
 * **Stokes Number:** Key distribution parameters depends on $St$ through a positive, non-linear relationship.
 * **Model Accuracy:** The Random Forest model proved "exceptionally predictive," achieving high OOB $R^2$ values ($>0.94$) across all moments, confirming the model captured complex physical relationships without significant overfitting.
+
+
+## Files 
+
+* .qmd file has all the code and written insights after codechunks.
+* .csv files are named accordingly
